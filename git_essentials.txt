@@ -1,0 +1,7 @@
+Git essentials:
+
+I connected local reporsitory from my computer to Github using this command
+
+C:\DailyWork\SpringData>git remote add origin https://github.com/vickynrj/springannotations
+
+In above command, vickynrj is my git account username and springannotations is the nrepository which i created in git hub.
